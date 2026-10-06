@@ -1,8 +1,8 @@
 # Hi, I'm Bhavin
 
-Solo founder at Tagbudy Services, Ahmedabad. Building **BEHAVR**.
+Solo founder at Tagbudy Services, Valsad-Gujarat-India. Building **BEHAVR**.
 
-## BEHAVR: visual memory API for AI apps
+## BEHAVR: visual memory API for AI apps & AI websites
 
 Give your AI app persistent visual memory in two calls.
 `remember()` an image or video, `ask()` about it later.
